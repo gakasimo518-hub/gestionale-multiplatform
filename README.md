@@ -1,2 +1,5 @@
 # gestionale-multiplatform
-Gestionale completo per clienti, dipendenti e altro, disponibile come web app e app mobile, con autenticazione JWT e MySQL su AlwaysData
+
+Generato da **AI Software House**.
+
+**Stack:** React + Vite (web) / React Native Expo SDK 53 (mobile), Node.js + Express, MySQL (AlwaysData), Tailwind CSS
